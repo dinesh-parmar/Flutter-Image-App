@@ -1,4 +1,4 @@
-# image
+# Flutter Image App
 
 A new Flutter application.
 
